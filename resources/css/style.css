@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    display: flex;
+}
+
+header {
+    color: white;
+    font-size: 3.125rem;
+    font-weight: normal;
+    text-align: center;
+    margin: 2.09rem 0;
+}
+
+#download a {
+    color: aquamarine;
+    font-size: 1rem;
+}
