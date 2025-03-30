@@ -3,6 +3,7 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     display: flex;
+    justify-content: center;
 }
 
 header {
