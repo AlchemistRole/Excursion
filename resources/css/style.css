@@ -13,6 +13,10 @@ header {
     margin: 2.09rem 0;
 }
 
+#download {
+margin-bottom: 1.33rem;
+}
+
 #download a {
     color: aquamarine;
     font-size: 1rem;
@@ -21,6 +25,25 @@ header {
 #video {
     margin: auto;
     overflow: clip;
-    object-fit: contain;
-    
+    object-fit: contaim;
+}
+
+#travel_guide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#travel_guide h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 2.625rem;
+    margin: 2.17875rem 0;
+
+}
+
+#travel_guide #summary {
+    color: gray;
+    font-size: 1.3125rem;
+    margin: 1.33rem 0;
 }
