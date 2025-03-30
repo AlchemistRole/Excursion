@@ -17,3 +17,10 @@ header {
     color: aquamarine;
     font-size: 1rem;
 }
+
+#video {
+    margin: auto;
+    overflow: clip;
+    object-fit: contain;
+    
+}
